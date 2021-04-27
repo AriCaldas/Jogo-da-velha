@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1619486436 source:c:\users\usuário\codeblocks projects\jogodavelha\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
